@@ -1,0 +1,28 @@
+# Deep Learning Frameworks
+torch>=1.7.0
+torchvision>=0.8.1
+torchaudio>=0.7.0
+
+# YOLOv7 and Object Detection
+ultralytics
+matplotlib
+opencv-python
+tqdm
+pandas
+numpy
+PyYAML
+requests
+
+# Image Processing
+Pillow
+scipy
+scikit-image
+
+# GUI (if needed)
+tkinter
+
+# Additional Utilities
+seaborn
+tensorboard
+ipython
+jupyter
