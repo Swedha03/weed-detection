@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore dataset files (optional)
+dataset/
+*.csv
+*.json
+
+# Ignore logs and temp files
+logs/
+*.log
+
+# Ignore model weights (if not required)
+weights/
+*.pt
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.o
+*.a
+
+# Ignore IDE files
+.vscode/
+.idea/
