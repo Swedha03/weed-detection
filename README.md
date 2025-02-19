@@ -15,7 +15,7 @@ To use YOLOv7 in this project, follow these steps:
    pip install -r yolov7/requirements.txt
    ```  
 3. Download the trained model weights from Roboflow or train your custom model.
-
+4. Entire project with trained model of yolov7 - https://drive.google.com/file/d/1WsJiacgjIMtbaTD7NXxZziBzYHxW3qiU/view?usp=sharing
 ---
 If working with a GPU, install torch with CUDA (e.g., torch==1.13.1+cu117).
 You can generate your own requirements.txt by running:
